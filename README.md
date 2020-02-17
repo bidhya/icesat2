@@ -1,2 +1,2 @@
 # icesat2
-Download processing and analysis of ICESat-2 data
+Scripts for download and analysis of ICESat-2 data using Python
