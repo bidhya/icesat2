@@ -9,5 +9,7 @@ We have developed this set of Jupyter Notebooks based on open-source Python libr
 - Parse the HDF files into common geospatial formats (eg. shapefile, csv)
 - Quick but interactive visualization of data
 
-
+<div align="center">
+  <img src="img/osu_rgb.eps"><br>
+</div>
 
