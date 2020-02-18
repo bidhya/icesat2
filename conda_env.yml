@@ -1,0 +1,19 @@
+name: icesat2
+channels:
+  - default
+dependencies:
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - geopandas
+  - cartopy
+  - jupyterlab
+  - seaborn
+  - h5py
+  - xarray
+  - earthpy
+  - rasterio
+  - georasters
+  - hvplot
+  - geoviews-core
+  - dask-jobqueue
