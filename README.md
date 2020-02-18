@@ -10,6 +10,6 @@ We have developed this set of Jupyter Notebooks based on open-source Python libr
 - Quick but interactive visualization of data
 
 <div align="center">
-  <img src="img/osu_rgb.eps"><br>
+  <img src="img/osu-byrd.tif"><br>
 </div>
 
