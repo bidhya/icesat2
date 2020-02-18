@@ -1,4 +1,4 @@
-## Jupyter Notebooks for Interactive Visualization Rapid Analysis of ICESat-2 Data
+# Jupyter Notebooks for Interactive Visualization Rapid Analysis of ICESat-2 Data
 - Ease subsetting and request of ICESat-2 granules from NSIDC server
 - Download using NSIDC API
 - Parse the HDF files into common geospatial formats (eg. shapefile, csv)
@@ -6,7 +6,7 @@
 - Based on Open-Source Python libraries
 - Run of Windows and Linux
 
-# Create the environment
+## Create the environment
     conda env create -f environment.yml
     To activate this newly create environment, use
     conda activate icesat2
