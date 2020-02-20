@@ -115,7 +115,7 @@ venv.bak/
 # For journal papers using MD
 archive/
 zips/
-
+test_data/
 # For microsoft visual studio
 scripts/.vscode/
 
