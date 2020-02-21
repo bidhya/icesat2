@@ -116,6 +116,7 @@ venv.bak/
 archive/
 zips/
 test_data/
+ic2/
 # For microsoft visual studio
 scripts/.vscode/
 
